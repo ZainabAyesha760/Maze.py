@@ -1,5 +1,3 @@
-# Artificial Intelligence - Task 1 - FINAL 5x5 Custom Maze
-# University of Okara - Dr. Ghulam Ali
 # Maze size 5x5 - 22 nodes - Costs: Normal=1, Mud F,O=10, Water E=20
 
 # Import deque for BFS queue
